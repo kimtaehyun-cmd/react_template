@@ -17,7 +17,7 @@
 
 <div align="center">
 <br />
-
+<<<<<<< HEAD
 
 </div>
 
@@ -26,6 +26,5 @@
 
 - [setting](#setting)
   - [Built With](#built-with)
-
 
 </details>
